@@ -40,6 +40,8 @@ You will use this data to construct an area chart. We provide an R code that wil
 II(b) Use the nearest living relative priniciple to reconstruct the environment of the fossils from the cave. 
 Make a new version of Table 2, but instead of showing the proportions of taxa, extract the biotope rom Table 3 and apply it in the new 
 version of Table 2. You are aiming for an area chart that shows the relative proportions of biotopes. 
+
+![Biotopes of living relatives](Table3.jpg)
 So you may need to re-calculate the proportions. Use the same code as provided in II(a) but modify it to use the file you created and 
 make sure the labels are adjusted accordingly.
 
